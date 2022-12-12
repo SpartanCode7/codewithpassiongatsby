@@ -17,8 +17,11 @@
   "dependencies": {
     "gatsby": "^5.2.0",
     "gatsby-plugin-sass": "^6.2.0",
+    "gatsby-plugin-sharp": "^5.2.0",
+    "gatsby-transformer-sharp": "^5.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sass": "^1.56.1"
+    "react-router-dom": "^6.4.5",
+    "sass": "^1.56.2"
   }
 }
